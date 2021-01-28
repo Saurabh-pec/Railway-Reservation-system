@@ -1,11 +1,11 @@
 # Railway-Reservation-system 
 ## Description
-* Hey! this is Railway Reservation System  project which is based on c++ programming language by using this program we can book railway's ticket, cancellation of ticket
+<p> Hey! this is Railway Reservation System  project which is based on c++ programming language by using this program we can book railway's ticket, cancellation of ticket
   and also check availablity of seats in each coach like 1st AC coach, 2nd AC coach, sleeper 2nd class and other non AC coach.
   There is two part:
   <br>1} Admin-Access
   <br>2} User-Access
-  <br>
+  <br></p>
   <br> <b>Admin-Acess:</b> In admin access railway's staf like TC, clerk and other railway's Staffs can set train name, train_no.,
           train's route, Destination Point,Bording point,journey time, Ticket fair and other details. and also they can enter new train record, 
           display all train records, modify train records and  delete train records
