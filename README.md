@@ -16,12 +16,12 @@
  
 
 ## Demo
-*Following demo image/link : [click here]()<br>
-[Img1]()<br>
-[Img2]()<br>
-[Img3]()<br>
+*Following demo image/link : [click here](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(348).png)<br>
+[Img1](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(350).png)<br>
+[Img2](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(352).png)<br>
+[Img3](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(351).png)<br>
 
-![Output Img]()
+![Sample Output Img](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(348).png)
 
 ## Technologies Used:
 * <b>Dev C++ IDE</b><br>
