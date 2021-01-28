@@ -11,10 +11,9 @@
           display all train records, modify train records and  delete train records
    <br><b>User-Access:</b> In this section user need to Enter Username and password to access it. and after that they can book train ticket,cancellation of ticket
   and also check availablity of seats in each coach like AC-coacies && Non-AC coacies.
-  <b>A ticket will be printed containing the PNR number. 
-    The PNR Number can also be used for cancellation of the ticket.</b>
+  <br>A ticket will be printed containing the PNR number. 
+    The PNR Number can also be used for cancellation of the ticket.</br><br>
  
-
 
 ##Demo
 *Following demo image/link : [click here]()<br>
