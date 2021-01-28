@@ -12,10 +12,10 @@
    <br><b>User-Access:</b> In this section user need to Enter Username and password to access it. and after that they can book train ticket,cancellation of ticket
   and also check availablity of seats in each coach like AC-coacies && Non-AC coacies.
   <br>A ticket will be printed containing the PNR number. 
-    The PNR Number can also be used for cancellation of the ticket.</br><br>
+    The PNR Number can also be used for cancellation of the ticket.</br>
  
 
-##Demo
+## Demo
 *Following demo image/link : [click here]()<br>
 [Img1]()<br>
 [Img2]()<br>
