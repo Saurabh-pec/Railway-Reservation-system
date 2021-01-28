@@ -14,8 +14,8 @@
   <b>A ticket will be printed containing the PNR number. 
     The PNR Number can also be used for cancellation of the ticket.</b>
  
-*
-*
+
+
 ##Demo
 *Following demo image/link : [click here]()<br>
 [Img1]()<br>
@@ -23,9 +23,9 @@
 [Img3]()<br>
 
 ![Output Img]()
-*
+
 ## Technologies Used:
-* <b>Dev C++ IDE</b>
+* <b>Dev C++ IDE</b><br>
 *<b>MS Power POint(PPT)</b>
 
 ## Setup/ Methods
@@ -33,12 +33,12 @@
 * Create two Classes for Admin Access and User Acess.
 * import some libraries 
 like:  
-<br><ol>#include<iostream></ol></br>
-<br><ol>#include<fstream></ol></br>
-<br><ol>#include<conio.h></ol></br>
-<br><ol>#include<stdio.h></ol></br>
-<br><ol>#include<process.h></ol></br>
-<br><ol>#include<string.h></ol></br>
+<br>#include<iostream></br>
+<br>#include<fstream></br>
+<br>#include<conio.h></br>
+<br>#include<stdio.h></br>
+<br>#include<process.h></br>
+<br>#include<string.h></br>
 
 
 * Also create some other classes like pn, train, book, passenger and create their respective data members and Member function for get input and display all details.
