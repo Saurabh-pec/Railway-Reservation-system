@@ -25,15 +25,13 @@
 
 ## Technologies Used:
 * <b>Dev C++ IDE</b><br>
-<b>*MS Power POint(PPT)</b>
+* <b>MS Power Point(PPT)</b>
 
 ## Setup/ Methods
 * open C++ ide-'Dev C++'.
 * Create two Classes for Admin Access and User Acess.
 * import some libraries 
 like:  
-<br>#include<iostream>
-<br>#include<fstream>
 <br>#include<conio.h>
 <br>#include<stdio.h>
 <br>#include<process.h>
