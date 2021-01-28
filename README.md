@@ -21,7 +21,7 @@
 [Img2](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(352).png)<br>
 [Img3](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(351).png)<br>
 
-![Sample Output Img](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/2.jpg)
+![Sample Output Img](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/3.jpg)
 
 ## Technologies Used:
 * <b>Dev C++ IDE</b><br>
