@@ -37,8 +37,7 @@ like:
 <br>#include<process.h>
 <br>#include<string.h>
 <br>
-
  * Also create some other classes like pn, train, book, passenger and create their respective data members and Member function for get input and display all details.
 <br> In main function, create object of classes and call the function to get user input and display all details.
 * Run and get expected output.
-
+<br>
