@@ -16,7 +16,7 @@
  
 
 ## Demo
-*Following demo image/link : [click here](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(348).png)<br>
+* Following demo image/link : [click here](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(348).png)<br>
 [Img1](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(350).png)<br>
 [Img2](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(352).png)<br>
 [Img3](https://raw.githubusercontent.com/Saurabh-pec/Railway-Reservation-system/main/Output/Screenshot%20(351).png)<br>
