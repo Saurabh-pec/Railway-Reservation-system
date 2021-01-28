@@ -12,7 +12,7 @@
    <br><b>User-Access:</b> In this section user need to Enter Username and password to access it. and after that they can book train ticket,cancellation of ticket
   and also check availablity of seats in each coach like AC-coacies && Non-AC coacies.
   <br>A ticket will be printed containing the PNR number. 
-    The PNR Number can also be used for cancellation of the ticket.</br>
+    The PNR Number can also be used for cancellation of the ticket.
  
 
 ## Demo
@@ -25,22 +25,22 @@
 
 ## Technologies Used:
 * <b>Dev C++ IDE</b><br>
-*<b>MS Power POint(PPT)</b>
+<b>*MS Power POint(PPT)</b>
 
 ## Setup/ Methods
 * open C++ ide-'Dev C++'.
 * Create two Classes for Admin Access and User Acess.
 * import some libraries 
 like:  
-<br>#include<iostream></br>
-<br>#include<fstream></br>
-<br>#include<conio.h></br>
-<br>#include<stdio.h></br>
-<br>#include<process.h></br>
-<br>#include<string.h></br>
+<br>#include<iostream>
+<br>#include<fstream>
+<br>#include<conio.h>
+<br>#include<stdio.h>
+<br>#include<process.h>
+<br>#include<string.h>
+<br>
 
-
-* Also create some other classes like pn, train, book, passenger and create their respective data members and Member function for get input and display all details.
-* In main function, create object of classes and call the function to get user input and display all details.
+ * Also create some other classes like pn, train, book, passenger and create their respective data members and Member function for get input and display all details.
+<br> In main function, create object of classes and call the function to get user input and display all details.
 * Run and get expected output.
 
