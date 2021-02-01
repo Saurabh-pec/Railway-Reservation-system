@@ -715,7 +715,6 @@ break;
 } // END OF IF
 else
 {
-
 star();
 cout<<" WRONG PASSWORD";
 cout<<" ACCESS DENIED";
@@ -736,4 +735,5 @@ void star() // FUNCTION TO PRINT STARS ON SCREEN
 
 	}
 	cout<<endl;
-}
+} 
+
